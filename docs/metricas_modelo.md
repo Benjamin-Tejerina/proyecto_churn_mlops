@@ -8,6 +8,7 @@
 | Precision | 1.0000 |
 | Recall | 1.0000 |
 | F1-score | 1.0000 |
+| ROC AUC | 1.0000 |
 
 ## Interpretación inicial
 
